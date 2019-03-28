@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string name="txtNome">Name: </string>
+    <string name="txtTelefone">Phone: </string>
+    <string name="txtCidade">City: </string>
+    <string name="txtSexo">Gender: </string>
+    <string name="txtFilhos">Children?</string>
+    <string name="txtFeminino">Female</string>
+    <string name="txtMasculino">Male</string>
+
+    <string name="hintNome">Enter name </string>
+    <string name="hintTelefone">Enter phone </string>
+
+    <string-array name="cidades">
+        <item>Select..</item>
+        <item>Alvorada</item>
+        <item>Canoas</item>
+        <item>Capão da Canoa</item>
+        <item>Porto Alegre</item>
+        <item>Viamão</item>
+    </string-array>
+
+    <string name="txtAtencao">Atention</string>
+
+</resources>
+
+
+
+
+
+
+
+
+
